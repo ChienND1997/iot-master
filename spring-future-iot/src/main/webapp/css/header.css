@@ -1,0 +1,54 @@
+.navbar {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    box-shadow: 0 2px 6px #acacac;
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+.navbar-default .navbar-toggle {
+    border: none;
+    margin-right: 0;
+    margin-left: 10px;
+
+}
+.navbar-default{
+    background-color: #fff0;
+}
+
+.navbar-default .navbar-toggle:focus {
+      background-color: #fff0;
+}
+
+.navbar li a {
+    color: #1688CC !important;
+    background-color: #fff0;
+}
+
+.navbar-nav li a:hover {
+    color: #ff6a00 !important;
+    background-color: #fff0;
+}
+
+.navbar-nav li a {
+    font-family: Arial, Helvetica, sans-serif, SimSun;
+    background-color: #fff0;
+}
+
+.nav-left li a {
+    color: #b70000 !important;
+}
+
+.nav-left li a:hover {
+    color: #333 !important;
+    background-color: #fff0;
+}
+.btn.btn-rounded {
+    border-radius: 50px;
+}
+.btn.btn-fw {
+    min-width: 120px;
+    margin: 10px;
+}

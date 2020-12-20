@@ -1,0 +1,51 @@
+=====================================================================LINUX UNBUTU====================================================
+udo apt-get update
+sudo apt-get install mosquitto
+sudo apt-get install mosquitto-clients
+-------Create Sub-----
+
+mosquitto_sub -t "test"
+
+-------Pub test--------
+
+mosquitto_pub -m "Hello World!" -t "test"
+
+-------Secure -------
+
+sudo mosquitto_passwd -c /etc/mosquitto/passwd tranvietanh190196
+Password: vietanhh12
+
+-------
+
+sudo nano /etc/mosquitto/conf.d/default.conf
+--copy---
+allow_anonymous false
+password_file /etc/mosquitto/passwd
+
+
+---restart----
+sudo systemctl restart mosquitto
+
+
+-----Test secure----
+mosquitto_sub -t "test" -u "tranvietanh190196" -P "vietanhh12"
+
+mosquitto_pub -t "test" -m "Hello World!" -u "tranvietanh190196" -P "vietanhh12"
+=====================================================================WINDOWS====================================================
+Tìm t? khóa : cài d?t mqtt trên window ho?c https://tapit.vn/huong-dan-cai-dat-broker-mosquitto-tren-windows/
+
+
+
+L?nh : cd d?n thu m?c cài d?t MQTT d? b?t máy ch? mqtt:
+
+D:\mosquitto>mosquitto -v
+1557297010: mosquitto version 1.6.2 starting
+1557297010: Using default config.
+1557297010: Opening ipv6 listen socket on port 1883.
+1557297010: Opening ipv4 listen socket on port 1883.
+1557297040: mosquitto version 1.6.2 terminating
+
+
+
+
+

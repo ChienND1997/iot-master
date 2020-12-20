@@ -1,0 +1,4 @@
+[2019-04-24 00:21:03] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@28932594 by 0398749499<-----------------------
+[2019-04-24 00:24:00] INFO [http-nio-8080-exec-9] SensorTemperatureApi.saveSensorTemperature(84) | update SensorTemperature 6A:45:EW:23:111 done!
+[2019-04-24 00:33:51] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@432584a8 by 0398749499<-----------------------
+[2019-04-24 00:35:33] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6c7a9457 by 0398749499<-----------------------

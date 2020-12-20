@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+@import "/css/font-awesome.min.css";
+@import "/css/bootstrap.min.css";
+@import "/css/header.css";
+@import "/css/re-login.css";
+@import "/css/body.css";
+@import "/css/footer.css";
+body {
+	font-family:Arial, Helvetica, sans-serif, SimSun;
+	line-height: 1.5;
+	font-size: 14px;
+	background-color: #fbfbfb;
+}
+
+.row{
+	margin-right:0;
+	margin-left:0;
+}
+
+.col-sm-3{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.col-sm-6{
+	padding-right: 5px;
+	padding-left: 5px;
+}
+.body-content-menu{
+	background-color: #ffff;
+	margin-top: 80px;
+	min-height: 500px;
+}
+@media screen and (max-width: 767px) {
+
+	.re-login {
+		width: 300px;
+	}
+	.menu{
+	background-color: #ffff;
+	border:0px;
+	margin-top:30px;
+	 padding: 0px 5px 0px 5px;
+	}
+	#navbar{
+		background-color: white !important;
+	}
+	
+}

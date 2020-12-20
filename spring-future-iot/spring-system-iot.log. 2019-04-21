@@ -1,0 +1,2 @@
+[2019-04-21 16:14:54] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@1afa1751 by 0398749499<-----------------------
+[2019-04-21 16:17:26] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@660d7d09 by 0398749499<-----------------------

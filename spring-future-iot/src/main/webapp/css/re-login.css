@@ -1,0 +1,30 @@
+.re-login{
+			border-top:2px solid #f40;
+		    border-left: 1px solid #e8e8e8;
+		    border-right: 1px solid #e8e8e8;
+		    border-bottom: 1px solid #e8e8e8;
+		    box-shadow: 0 2px 6px #acacac;
+		    
+		    margin:auto;
+		    max-width:400px;
+		    padding: 16px;
+		    background-color: white;
+		    font-size: 14px;
+		    font-family: Arial, Helvetica, sans-serif, SimSun;
+}
+.login{
+	padding: 100px 0;
+	background-color: white;
+}
+.register{
+	padding: 30px 0;
+	background-color: white;
+}
+ .input-sm{
+	border-radius:0;
+    font-size: 13px;
+    
+}
+.form-control{
+	border-radius:0;
+}

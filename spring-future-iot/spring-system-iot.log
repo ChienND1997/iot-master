@@ -1,0 +1,4 @@
+[2019-05-14 10:12:06] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(69) | java.lang.ArrayIndexOutOfBoundsException: 1
+[2019-05-14 10:12:06] INFO [MQTT Call: server-app] AppConfig.lambda$null$0(122) | Hello
+[2019-05-14 10:28:35] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(69) | java.lang.ArrayIndexOutOfBoundsException: 1
+[2019-05-14 10:28:35] INFO [MQTT Call: server-app] AppConfig.lambda$null$0(122) | Hello

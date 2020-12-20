@@ -1,0 +1,286 @@
+[2019-05-08 10:59:49] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | Hello world
+[2019-05-08 13:14:59] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | Hello
+[2019-05-08 16:44:12] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:15] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:18] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:21] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:24] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:28] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:31] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:34] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:37] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:40] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:43] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:46] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:49] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:52] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:55] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:44:58] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:01] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:04] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:07] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:29] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:29] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:32] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:32] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:35] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:35] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:38] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:38] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:41] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:41] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:44] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:44] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:47] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:47] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:50] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:50] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:53] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:53] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:56] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:56] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:45:59] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:45:59] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:02] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:02] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:05] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:05] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:08] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:08] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:12] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:12] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:15] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:15] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:18] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:18] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:21] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:21] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:24] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:24] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:27] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:27] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:30] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:30] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:33] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:33] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:36] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:36] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:39] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:39] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:42] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:42] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:45] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:45] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:48] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:48] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:51] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:51] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:46:54] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:46:54] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:07] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:07] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:10] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:10] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:13] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:13] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:16] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:16] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:19] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:19] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:22] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:22] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:25] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:25] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:38] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:38] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:41] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:41] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:44] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:44] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:47] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:47] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:50] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:50] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:53] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:53] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:56] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:56] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:47:59] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:47:59] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:48:02] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:48:02] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:48:06] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:48:06] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:48:09] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:48:09] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:48:12] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dKlVZU5dm2hssoY/YP95dr7u0I59HQeDZmFX6BGWFHJg=
+[2019-05-08 16:48:12] ERROR [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(76) | For input string: "nan"
+[2019-05-08 16:48:26] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dC49HyKpCv6DFGSCnokP/fw6di8ayWA==
+[2019-05-08 16:48:29] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173daq5wTYP7Zv1C32b0QsW3atYQhERxLxpILveQ7/mM39+xb384
+[2019-05-08 16:48:29] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:48:32] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dPN6kScjyhTgft4hqI+bM6gIu/eJzc3VEYpfWrmTd0vIOHRcu
+[2019-05-08 16:48:32] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:48:45] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173du91Po2ZF/VTtXvNMijaQZMLnxSti579f7vVf3niP/M/Sgb0L
+[2019-05-08 16:48:45] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:48:48] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dNRVKSLRWrrm+LNZ3CqUY3K4IyqqVTzOYgg/Fe0vle208zNcg
+[2019-05-08 16:48:48] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:48:51] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dZtaUzc5TQRHrDrOIlXXJXypdeJMIfMdnkw==
+[2019-05-08 16:48:54] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d/kznJlUMjQ==
+[2019-05-08 16:48:57] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d/kznJlUMjQ==
+[2019-05-08 16:49:00] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dm0qwGGrLIjUMdGsYKLRaOUfffQlfe95VRPeqjN+oAsYFxoDh
+[2019-05-08 16:49:01] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:03] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dXDuMrlq0UqqA9XaGxRgNO6hOA2IS5iX1vjjLjVzyJKoH24gN
+[2019-05-08 16:49:03] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:06] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d6g+yjZsYj4q5q+8G9KAdpfUUf1/Rw2zosGv5rzlUFdZytJCj
+[2019-05-08 16:49:07] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:09] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173djtkXp5t5/LS7onvChs1HczNy4avuLtgOayM0rqL/5KTEvILP
+[2019-05-08 16:49:10] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:13] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173diN4TPjGCCUA9enQ8HHLuP1+gkHIbmKF5mLbnMHxqehFOYNR6
+[2019-05-08 16:49:13] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:16] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dM+Kc4MBTAYdKMhrWJ/vkw8la8T1L9UyvEjEQJ03ZRfUpM4fg
+[2019-05-08 16:49:16] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:19] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dFg2dTxupbtwuTxCbProrNHpGLaPmQpz6nS5dhv1mPRqUAVQP
+[2019-05-08 16:49:19] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:22] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dTCZ3bpOezZ/ted+brBc=
+[2019-05-08 16:49:25] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dM+Kc4MBTAYdKMhrWJ/vkw8la8T1L9UyvEjEQJ03ZRfUpM4fg
+[2019-05-08 16:49:25] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:28] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dG0AxVvWPWBDdeiHRPWxsHEpBCw908imPgncv0BGZx7XkU1/o
+[2019-05-08 16:49:28] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:31] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dZfqIAtLXjzbcRmtuRiMGedBxks9gHVOsA/fSPPZS/kjtNN96
+[2019-05-08 16:49:31] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:34] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173du8YQ2DkESZmLKyDAmOp5sWT+1I2DMjsCijRT7tIMVAjtl1Sg
+[2019-05-08 16:49:34] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:37] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dnp9fNpi/olEZ3lxEwDv00UW/wECppNCcDDpUvW4ql396k7Uc
+[2019-05-08 16:49:37] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:40] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dZfqIAtLXjzbcRmtuRiMGedBxks9gHVOsA/fSPPZS/kjtNN96
+[2019-05-08 16:49:40] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:53] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dM+Kc4MBTAYdKMhrWJ/vkw8la8T1L9UyvEjEQJ03ZRfUpM4fg
+[2019-05-08 16:49:53] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:56] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dEVQxlFjrDdHx07ckxRIeybmCmb+uF5ynJ8eHNxFKiV/r7jvX
+[2019-05-08 16:49:56] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:49:59] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dhBo+wEfGn/hb1hvg6/FC9Gb1L/GIeDu/BYhKnYa9Jiy4H3x9
+[2019-05-08 16:49:59] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:02] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dZfqIAtLXjzbcRmtuRiMGedBxks9gHVOsA/fSPPZS/kjtNN96
+[2019-05-08 16:50:02] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:05] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dSMdqvilF6SDSEsKga7JqBf8pCBbrzKxnmtvKvIjl+49t9E6r
+[2019-05-08 16:50:05] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:06] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@20f997ac by 0398749499<-----------------------
+[2019-05-08 16:50:08] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173djtkXp5t5/LS7onvChs1HczNy4avuLtgOayM0rqL/5KTEvILP
+[2019-05-08 16:50:08] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:11] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173du4T8wlHqtR0enogl5bp53vyobZ+AR5CDKVmYvm6sM4rklM2p
+[2019-05-08 16:50:11] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:14] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173df2vSVPKyOkZwzUAPCozEvMFAEBwldlWh73yoGHchKBQy84yT
+[2019-05-08 16:50:14] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:17] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173df2vSVPKyOkZwzUAPCozEvMFAEBwldlWh73yoGHchKBQy84yT
+[2019-05-08 16:50:17] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:20] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d4M5dbGvKe6t2WtXIEaBHE1pJN8tBmcpvYWvFq/Zgql7vOoDV
+[2019-05-08 16:50:20] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:23] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173diN4TPjGCCUA9enQ8HHLuP1+gkHIbmKF5mLbnMHxqehFOYNR6
+[2019-05-08 16:50:23] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:26] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dSMdqvilF6SDSEsKga7JqBf8pCBbrzKxnmtvKvIjl+49t9E6r
+[2019-05-08 16:50:26] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:29] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173djtkXp5t5/LS7onvChs1HczNy4avuLtgOayM0rqL/5KTEvILP
+[2019-05-08 16:50:29] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:32] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dwcz7zfv9gTYccGVRHomooVB/tekiYn3PrgXA9LuwV67EtBLX
+[2019-05-08 16:50:32] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:35] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d7vJxFsiYtqiWD0cqhHtEU423Zj++Cv6M/ox87hlJW8yUA3ve
+[2019-05-08 16:50:35] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:38] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dMezSLBvO6ZYMyqNY+Zri8/Uu1lQEzSVt/yS6zFoQe3nqWb4X
+[2019-05-08 16:50:38] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:41] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dQiMPjo9i6ean4F8+dBTA1Mbv9fL4FFeCnpmlzHc5+N1ssco0
+[2019-05-08 16:50:41] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:44] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dVaMVHucnt3A7OH84Y/lUxGUcnDGQQ/qYOtg/kUVOWmbjHmjj
+[2019-05-08 16:50:44] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:47] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d1iucbVGdVcKdvz9z4QRWK2YjxpL+QTC4Nwm1HdrlDfo4iI0f
+[2019-05-08 16:50:47] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:50] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dbC30kTSXya5msP+p6vLXcuyIvENZaq0lkqlbkz1mUQgjHuZI
+[2019-05-08 16:50:50] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:53] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:50:56] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dFg2dTxupbtwuTxCbProrNHpGLaPmQpz6nS5dhv1mPRqUAVQP
+[2019-05-08 16:50:56] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:50:59] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dzOXyqobQwEI=
+[2019-05-08 16:51:02] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173diN4TPjGCCUA9enQ8HHLuP1+gkHIbmKF5mLbnMHxqehFOYNR6
+[2019-05-08 16:51:02] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:05] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173diBRUHfPHOUk2f9kPQRm3Hm2K6kkIaCq7ePuL/mqnDN5IttzT
+[2019-05-08 16:51:05] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:08] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:51:11] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dVaMVHucnt3A7OH84Y/lUxGUcnDGQQ/qYOtg/kUVOWmbjHmjj
+[2019-05-08 16:51:12] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:14] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d1iucbVGdVcKdvz9z4QRWK2YjxpL+QTC4Nwm1HdrlDfo4iI0f
+[2019-05-08 16:51:15] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:18] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dZfqIAtLXjzbcRmtuRiMGedBxks9gHVOsA/fSPPZS/kjtNN96
+[2019-05-08 16:51:18] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:21] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173diN4TPjGCCUA9enQ8HHLuP1+gkHIbmKF5mLbnMHxqehFOYNR6
+[2019-05-08 16:51:21] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:24] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d4M5dbGvKe6t2WtXIEaBHE1pJN8tBmcpvYWvFq/Zgql7vOoDV
+[2019-05-08 16:51:24] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:27] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:51:30] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dEVQxlFjrDdHx07ckxRIeybmCmb+uF5ynJ8eHNxFKiV/r7jvX
+[2019-05-08 16:51:30] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:33] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d4M5dbGvKe6t2WtXIEaBHE1pJN8tBmcpvYWvFq/Zgql7vOoDV
+[2019-05-08 16:51:33] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:51:36] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:51:39] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:51:42] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173ds5EklFTOKxmA9DsK+F3P5BaTqGfne/KA9YbWioXrFOYPX25I
+[2019-05-08 16:51:42] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:27] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d0pfTSoJ2R+313nl8eiz4UqSM5RIggEquxqSXUnTlruf4V8tM
+[2019-05-08 16:52:28] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:30] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:52:33] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173doTqlbJ10bq7Z1Uj385l5KGQLy/6+uFe3DzRTOGvT+s53DPK4
+[2019-05-08 16:52:33] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:36] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173der4I/4EohiTTUitwH1Kj6siv03v+z1W/aF/tCnenOG/zMXMb
+[2019-05-08 16:52:36] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:39] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dQmtY3AKvjnNpkOjPTIsCCBDhcYKOPHDBqG+hiBVMwisRBIyG
+[2019-05-08 16:52:39] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:42] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dZfqIAtLXjzbcRmtuRiMGedBxks9gHVOsA/fSPPZS/kjtNN96
+[2019-05-08 16:52:42] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:45] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dufeIu/TPL/vg2vsYrogxpJVXeoAjG+yMN0aZ3LObXRfRgrZY
+[2019-05-08 16:52:45] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:48] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dQmtY3AKvjnNpkOjPTIsCCBDhcYKOPHDBqG+hiBVMwisRBIyG
+[2019-05-08 16:52:48] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:51] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dQmtY3AKvjnNpkOjPTIsCCBDhcYKOPHDBqG+hiBVMwisRBIyG
+[2019-05-08 16:52:51] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:54] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dVxbyzf/wk1zFzY9PcsCfG7u5yaa7T2YtBbDUwGkJ0Koqe3/P
+[2019-05-08 16:52:54] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:52:57] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dL5pEB0sQoHCRjiOEXAOVJBndkDGKPKqKOdYf3hiGdnzJn1Vr
+[2019-05-08 16:52:57] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:00] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dufeIu/TPL/vg2vsYrogxpJVXeoAjG+yMN0aZ3LObXRfRgrZY
+[2019-05-08 16:53:00] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:03] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dpKcHiMUNtFwNVSOsnKr/vkYYOwE3zqRFK5kXzR+7go7/o01n
+[2019-05-08 16:53:03] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:06] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173db1V7dEKJl877ftQnHK8oDKmk9acV8Yu9Yh/SNY6COaqzumeo
+[2019-05-08 16:53:06] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:09] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dEVQxlFjrDdHx07ckxRIeybmCmb+uF5ynJ8eHNxFKiV/r7jvX
+[2019-05-08 16:53:09] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:12] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173ds5EklFTOKxmA9DsK+F3P5BaTqGfne/KA9YbWioXrFOYPX25I
+[2019-05-08 16:53:12] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:15] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d0pfTSoJ2R+313nl8eiz4UqSM5RIggEquxqSXUnTlruf4V8tM
+[2019-05-08 16:53:15] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:18] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d8nd/I/G8alXZM+uK/+KOggEXx54tSJJ+PhXlgTCPfKdAy11i
+[2019-05-08 16:53:18] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:21] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dVaMVHucnt3A7OH84Y/lUxGUcnDGQQ/qYOtg/kUVOWmbjHmjj
+[2019-05-08 16:53:21] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:24] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d6xLQAc0vCtrW9qPWbZQVmh2YjMLLISRJ1sIMJiLtq9OW+f0v
+[2019-05-08 16:53:24] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:27] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dhOMg2FuAjuv2CTq0R6MZV9h5a6WfW5caHtDz7roNLUVIwKY2
+[2019-05-08 16:53:27] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:30] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:53:33] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173do2c2euEKDkGJQgFMqD2TKl8suDdNy7FcectVQyf4jbhfJrq5
+[2019-05-08 16:53:33] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:36] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173d6xLQAc0vCtrW9qPWbZQVmh2YjMLLISRJ1sIMJiLtq9OW+f0v
+[2019-05-08 16:53:36] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:39] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dufeIu/TPL/vg2vsYrogxpJVXeoAjG+yMN0aZ3LObXRfRgrZY
+[2019-05-08 16:53:39] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:42] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:53:45] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dbrQd8jmSlbQwzVTUR6+hwo0ILoPK7tnUusIw+flmqmuBLCrl
+[2019-05-08 16:53:45] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:48] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173diN4TPjGCCUA9enQ8HHLuP1+gkHIbmKF5mLbnMHxqehFOYNR6
+[2019-05-08 16:53:48] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:51] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dVaMVHucnt3A7OH84Y/lUxGUcnDGQQ/qYOtg/kUVOWmbjHmjj
+[2019-05-08 16:53:51] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:53:54] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==
+[2019-05-08 16:53:57] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dGxSE/2FC9a23iltRks3upQr+XzfrjYlds6SNc4NhNK0pnalv
+[2019-05-08 16:53:58] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:54:01] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173der4I/4EohiTTUitwH1Kj6siv03v+z1W/aF/tCnenOG/zMXMb
+[2019-05-08 16:54:01] INFO [MQTT Call: server-app] SensorTemperatureApi.saveSensorTemperature(88) | update SensorTemperature 80:7D:3A:29:1D:94 done!
+[2019-05-08 16:54:04] INFO [MQTT Call: server-app] SensorTemperatureApi.handlerEnCryptoData(57) | ec1ffa8b517eb9420c07ba5bb0fb173dx8of6FBKWotstLfJdplpk5gCFNJJJw==

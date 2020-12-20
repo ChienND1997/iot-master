@@ -1,0 +1,42 @@
+[2019-04-27 10:01:04] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@44e6c404 by 0398749499<-----------------------
+[2019-04-27 10:20:01] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@4ccdb90 by 0398749499<-----------------------
+[2019-04-27 10:20:25] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@5aebbb0b by 0398749499<-----------------------
+[2019-04-27 10:37:49] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7aa3b4fa by 0398749499<-----------------------
+[2019-04-27 10:45:44] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@5d14e1bb by 0398749499<-----------------------
+[2019-04-27 10:52:33] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@31f0ce8e by 0398749499<-----------------------
+[2019-04-27 10:53:36] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@ea1d167 by 0398749499<-----------------------
+[2019-04-27 11:06:06] INFO [http-nio-8080-exec-10] SensorTemperatureApi.saveSensorTemperature(87) | update SensorTemperature 6A:45:EW:23:111 done!
+[2019-04-27 16:57:46] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@55bb31f4 by 0398749499<-----------------------
+[2019-04-27 17:24:41] INFO [http-nio-8080-exec-1] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@f5e9e72 by 0398749499<-----------------------
+[2019-04-27 17:36:00] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@70ad1a0a by 0398749499<-----------------------
+[2019-04-27 17:36:24] INFO [http-nio-8080-exec-8] SensorTemperatureApi.getById(100) | 6A:45:EW:23:112====0398749499
+[2019-04-27 17:36:25] INFO [http-nio-8080-exec-7] SensorTemperatureApi.getById(100) | 6A:45:EW:23:111====0398749499
+[2019-04-27 17:36:26] INFO [http-nio-8080-exec-6] SensorTemperatureApi.getById(100) | abcdxyz====0398749499
+[2019-04-27 17:36:28] INFO [http-nio-8080-exec-3] SensorTemperatureApi.getById(100) | 6A:45:EW:23:111====0398749499
+[2019-04-27 17:44:24] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7e3bf923 by 0398749499<-----------------------
+[2019-04-27 17:45:10] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7af6828f by 0398749499<-----------------------
+[2019-04-27 17:53:31] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@79989c28 by 0398749499<-----------------------
+[2019-04-27 18:02:05] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@42439039 by 0398749499<-----------------------
+[2019-04-27 18:07:03] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@198e5e41 by 0398749499<-----------------------
+[2019-04-27 18:08:40] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@1747f7ce by 0398749499<-----------------------
+[2019-04-27 18:18:23] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7ec4a6b by 0398749499<-----------------------
+[2019-04-27 18:20:03] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@46e82e09 by 0398749499<-----------------------
+[2019-04-27 18:25:05] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@67144ad0 by 0398749499<-----------------------
+[2019-04-27 18:28:32] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6eef3806 by 0398749499<-----------------------
+[2019-04-27 18:29:45] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@3eb61d40 by 0398749499<-----------------------
+[2019-04-27 18:30:31] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@3bf7f81b by 0398749499<-----------------------
+[2019-04-27 18:31:43] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7e8f20a5 by 0398749499<-----------------------
+[2019-04-27 18:31:48] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@88fc507 by 0398749499<-----------------------
+[2019-04-27 18:32:45] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6d858178 by 0398749499<-----------------------
+[2019-04-27 18:32:50] INFO [http-nio-8080-exec-6] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@4bdb59cd by 0398749499<-----------------------
+[2019-04-27 18:36:32] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@27454f96 by 0398749499<-----------------------
+[2019-04-27 18:37:14] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@5b47c807 by 0398749499<-----------------------
+[2019-04-27 18:38:13] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@53e76ad by 0398749499<-----------------------
+[2019-04-27 18:39:02] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@56868f41 by 0398749499<-----------------------
+[2019-04-27 18:42:25] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@97dc625 by 0398749499<-----------------------
+[2019-04-27 18:43:41] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@2e34447b by 0398749499<-----------------------
+[2019-04-27 18:45:32] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@10ec896c by 0398749499<-----------------------
+[2019-04-27 18:49:11] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@45fafe7d by 0398749499<-----------------------
+[2019-04-27 18:50:14] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@76d3cc34 by 0398749499<-----------------------
+[2019-04-27 21:54:57] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@68d9071 by 0398749499<-----------------------
+[2019-04-27 21:54:59] INFO [http-nio-8080-exec-2] SensorTemperatureApi.getById(100) | 6A:45:EW:23:112====0398749499
